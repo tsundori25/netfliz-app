@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  background-color: black;
+  color: white
+}
+
+.title {
+  text-align: center;
+  margin: 30px 0;
+}
